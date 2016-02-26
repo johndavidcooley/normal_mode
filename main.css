@@ -6,7 +6,7 @@ body {
 	position: relative;
 }
 
-.header {
+nav {
 	position: absolute;
 	z-index: 2;
 }
