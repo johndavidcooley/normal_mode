@@ -1,5 +1,8 @@
 body {
-	font-family: Helvetica;
+	font-family: Helvetica, 'Lato', sans-serif;
+	/* I included this to show that I can use
+	Google fonts, but I put Helvetica first because
+	I thought it was a better font to use. */
 }
 
 .main {
